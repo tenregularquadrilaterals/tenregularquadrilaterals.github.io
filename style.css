@@ -87,3 +87,7 @@ footer {
     gap: 12px;
   }
 }
+
+.indent-section p {
+  text-indent: 2em;
+}
